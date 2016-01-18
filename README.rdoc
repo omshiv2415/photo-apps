@@ -6,7 +6,7 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
-
+* rails generate mailer Notifier
 * System dependencies
 
 * Configuration
